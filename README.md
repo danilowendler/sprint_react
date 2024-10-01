@@ -1,5 +1,14 @@
 # Fórmula E - Mahindra
 
+## Integrantes
+
+- **Danilo Wendler** - RM556602
+- **Renato Luiz** - RM556403
+- **Pedro Muzel** - RM555983
+- **Vitor Ismael** - RM556027
+- **Guilherme Cezarino** - RM557724
+
+
 Este é um projeto desenvolvido em React que apresenta informações sobre a Fórmula E, incluindo uma contagem regressiva para a próxima corrida, informações sobre pilotos e carros, e muito mais.
 
 ## Tabela de Conteúdos
